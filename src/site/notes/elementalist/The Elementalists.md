@@ -9,6 +9,8 @@
 
 The "Elementalist" prototype aims to establish core gameplay mechanics, focusing on character movement, a round-beginning shop system, and the implementation of elemental skills. This phase is crucial for validating the game concept and gathering early feedback.
 
+---
+
 ## **Objectives**
 
 - To implement and test basic character movement.
@@ -20,6 +22,7 @@ The "Elementalist" prototype aims to establish core gameplay mechanics, focusing
 - Strategy and RPG game enthusiasts interested in early testing and feedback.
 - The development team for iterative testing and refinement.
 
+---
 ## **Prototype Features**
 
 ### **Character Movement**
@@ -40,6 +43,7 @@ The "Elementalist" prototype aims to establish core gameplay mechanics, focusing
 - **Lightning Bolt**: A direct attack that damages and briefly stuns an enemy.
 - **Water Ball**: A slow-moving projectile that explodes on impact, dealing area damage.
 
+---
 ## **Technical Requirements**
 
 ### **Engine and Languages**
